@@ -4,12 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+Hello, I am Kartik Kulkarni. 
+I have a Bachelor of Engineering degree in Information Science 
+and will soon have a Masters of Science degree in Cybersecurity.
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mail@kartikkulkarni.me](mailto:mail@kartikkulkarni.me)
+
+#### PGP Key
+
+Authentic emails will be signed by the following key. If in doubt ask for my signed message or send me an encrypted email.
+
+16A1 100A B78A 6249 4F91 2A78 1258 0AC9 CE1F A236
+
+
